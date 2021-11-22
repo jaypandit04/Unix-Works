@@ -1,0 +1,45 @@
+Script started on Mon 19 Apr 2021 10:21:09 PM PDT
+[panditj@athena:21]> touch lab7.c[Kh
+[panditj@athena:22]> make
+gcc -c lab7.c lab7.h -lm
+gcc -c open_out_file.c -lm
+gcc -c get_stats.c -lm
+gcc -c do_sort.c -lm
+gcc -c get_median.c -lm
+gcc -c get_data.c -lm
+gcc -c print_all.c -lm
+gcc lab7.o open_out_file.o get_stats.o do_sort.o get_median.o get_data.o print_all.o -o lab7 -lm
+[panditj@athena:23]> lab7
+Jay Pandit.  Lab 7 output. 
+
+Track Results
+
+Drivers                  Try 1       Try 2       Try 3      Best Time   Deviation
+--------------------   ---------   ---------   ---------   ----------   ---------
+Missy Monroe              1.000       2.000       3.500        1.000       0.000
+Lenny Loop                2.200       3.400       4.600        2.200      -1.200
+Ned Niner                 3.800       7.000       5.500        3.800      -2.800
+Jay Johnson               4.100       5.300       6.700        4.100      -3.100
+
+
+ The average of best times =    2.775 
+
+ The track fast time       =    1.000 
+
+ The track slow time       =    7.000 
+
+ The median of best times  =    3.000 
+
+[panditj@athena:24]> cat lab7.xtx[K[K[Ktxt
+
+Jay Pandit.  Lab 7 output. 
+
+Track Results
+
+Drivers                  Try 1       Try 2       Try 3      Best Time   Deviation
+--------------------   ---------   ---------   ---------   ----------   ---------
+
+[panditj@athena:25]> exit
+exit
+
+Script done on Mon 19 Apr 2021 10:22:08 PM PDT

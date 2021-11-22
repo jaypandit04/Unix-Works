@@ -1,0 +1,23 @@
+Script started on Tue 09 Mar 2021 10:48:59 PM PST
+[panditj@athena:21]> gcc lab4.c
+[panditj@athena:22]> a.out
+[panditj@athena:23]> cat lab4.txt
+
+Jay Pandit  Lab 4. 
+
+Data on Parabolas 
+
+ Length      Depth        Area   
+--------   ---------   --------- 
+12.60        24.80      208.320 
+
+5.60         7.80       29.120 
+
+7.85        12.61       65.992 
+
+8.90         4.70       27.887 
+
+[panditj@athena:24]> exit
+exit
+
+Script done on Tue 09 Mar 2021 10:49:35 PM PST

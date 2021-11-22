@@ -1,0 +1,27 @@
+Script started on Tue 02 Mar 2021 09:43:54 PM PST
+[panditj@athena:21]> gcc lab3.c
+[panditj@athena:22]> a.out
+
+
+Jay Pandit.Lab 3.
+
+Mary went to the store.
+
+My friend is 22 years old.
+
+"So many books,so little time."
+-Frank Zappa
+
+The average = 416.7
+
+The average = 416.672
+
+The average = 4.17e+02            
+
+The average = 416.672340
+
+
+[panditj@athena:23]> exit
+exit
+
+Script done on Tue 02 Mar 2021 09:44:21 PM PST

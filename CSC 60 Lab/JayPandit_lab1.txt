@@ -1,0 +1,16 @@
+Script started on Tue 02 Feb 2021 10:54:21 PM PST
+[panditj@athena:16]> gcc lab1.c
+[panditj@athena:17]> a.out
+
+Lab1.
+
+Hello World.
+Hi,Jay Pandit.
+
+It always seems impossible, until it's done.
+-Nelson Mandela
+
+[panditj@athena:18]> exit
+exit
+
+Script done on Tue 02 Feb 2021 10:55:16 PM PST
